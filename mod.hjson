@@ -1,0 +1,7 @@
+name: "gigafortsector"
+displayName: "GigaFort Sector"
+author: "[yellow]RT[cyan]Omega"
+description: "Replaces sector 0 (next to PLT with GigaFort."
+version: "1.0"
+minGameVersion: 130
+hidden: true
